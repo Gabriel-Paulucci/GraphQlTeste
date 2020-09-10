@@ -28,7 +28,7 @@ namespace GraphQlTeste2.Auth
             {
                 Claim[] claims = new[]
                 {
-                    new Claim(ClaimTypes.Name, "teste")
+                    new Claim(ClaimTypes.Name, "teste"),
                 };
                 ClaimsIdentity identity = new ClaimsIdentity(claims, Scheme.Name);
                 ClaimsPrincipal principal = new ClaimsPrincipal(identity);
