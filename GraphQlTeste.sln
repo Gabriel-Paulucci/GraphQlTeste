@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Database", "Database\Databa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphQlTeste2", "GraphQlTeste2\GraphQlTeste2.csproj", "{BBE8A048-D8DD-4790-A4BF-C25D2528AA81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQlTeste3", "GraphQlTeste3\GraphQlTeste3.csproj", "{3D4F0B82-821D-4DC6-B236-520093F63DBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BBE8A048-D8DD-4790-A4BF-C25D2528AA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBE8A048-D8DD-4790-A4BF-C25D2528AA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBE8A048-D8DD-4790-A4BF-C25D2528AA81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D4F0B82-821D-4DC6-B236-520093F63DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4F0B82-821D-4DC6-B236-520093F63DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4F0B82-821D-4DC6-B236-520093F63DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4F0B82-821D-4DC6-B236-520093F63DBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
